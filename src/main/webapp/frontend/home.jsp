@@ -38,12 +38,13 @@ button:hover {
 
 	<h1 align="center" style="color: green">${msg}</h1>
 	<h1 align="center" style="color: green">${del}</h1>
-	
+
 	<br>
 	<br>
 	<h1 align="center">WELCOME TO HOME PAGE</h1>
 	<div align="center">
-		<a href="add"><button>ADD</button></a><br> <br> <a href="fetch"><button>FETCH</button></a>
+		<a href="add"><button>ADD</button></a><br> <br> <a
+			href="fetch"><button>FETCH</button></a>
 	</div>
 
 </body>

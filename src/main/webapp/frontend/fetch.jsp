@@ -36,7 +36,7 @@
 				</tr>
 			</c:forEach>
 		</table>
-		<a href="/MVC_CRUD"><button>Back</button></a>
+		<a href="/Spring_Proj"><button>Back</button></a>
 
 	</div>
 
